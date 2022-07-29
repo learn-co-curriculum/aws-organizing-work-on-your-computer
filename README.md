@@ -35,12 +35,11 @@ For Windows users, follow along with this video:
 - Create a directory for all your assignments by typing `mkdir code`.
 - Navigate into this folder with `cd code`.
 - In here, create a directory for Software Engineering Prep with
-  `mkdir se-prep`.
+  `mkdir module-1`.
 
-You'll be going through multiple phases in this course, so it may be helpful
-to go one step further and also create folders for phases 1 through 5 within
-`code`. When making the phase folders use a `-` between words. For example,
-the phase 1 folder should be named `phase-1`.
+You'll be going through multiple modules in this course, so it may be helpful
+to go one step further and also create folders for all 18 modules within
+`code`. When making the module folders use a `-` between words, as we did above for `module-1`.
 
 Having a specific place for your work will make it easier to find if you ever
 need to look back at an earlier project. It'll also keep the rest of your
